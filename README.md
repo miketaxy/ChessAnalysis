@@ -1,2 +1,2 @@
 # ChessAnalysis
-Analysis for chess on java
+Analysis for chess games on java
