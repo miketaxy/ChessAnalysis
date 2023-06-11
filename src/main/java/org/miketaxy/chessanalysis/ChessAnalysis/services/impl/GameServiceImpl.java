@@ -1,9 +1,10 @@
-package org.miketaxy.chessanalysis.ChessAnalysis.services;
+package org.miketaxy.chessanalysis.ChessAnalysis.services.impl;
 
 import com.github.bhlangonijr.chesslib.Board;
 import com.rahul.stockfish.Stockfish;
 import org.miketaxy.chessanalysis.ChessAnalysis.chess.PGN;
 import org.miketaxy.chessanalysis.ChessAnalysis.entity.Game;
+import org.miketaxy.chessanalysis.ChessAnalysis.services.mapper.GameService;
 import org.springframework.stereotype.Service;
 import org.springframework.web.bind.annotation.RequestParam;
 

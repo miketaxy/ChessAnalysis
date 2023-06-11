@@ -1,4 +1,4 @@
-package org.miketaxy.chessanalysis.ChessAnalysis.services;
+package org.miketaxy.chessanalysis.ChessAnalysis.services.mapper;
 
 import org.miketaxy.chessanalysis.ChessAnalysis.entity.Game;
 import org.springframework.web.bind.annotation.RequestParam;
